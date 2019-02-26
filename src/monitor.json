@@ -1,0 +1,11 @@
+{
+ "outfile": "/root/outfile",
+ "graphite_space_id": "f432d194-6e59-4480-b98b-4947ab025660",
+ "application_id": "va",
+ "instance_id": "prod-dal09-vuln-Annotator-01",
+ "va_app": "cloudsight-compliance-annotator_1",
+ "metric_condition_pairs": [
+                            ["memory.memory-util-percentage",  {"threshold": "> 0.9"}], 
+                            ["cpu-0.cpu-user",  {"correlate": "memory.memory-util-percentage"}]
+                           ]
+}

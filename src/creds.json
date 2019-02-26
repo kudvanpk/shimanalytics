@@ -1,0 +1,10 @@
+{
+  "graphite_prod_host":"logmet.ng.bluemix.net",
+  "graphite_stage_host":"logmet.stage1.ng.bluemix.net",
+  "uid": "kudva@us.ibm.com",
+  "upwd": "portu12gal",
+  "prod_org": "AlchemyProduction", 
+  "stage_org": "AlchemyStaging", 
+  "prod_space_id": "VA",
+  "stage_space_id": "VA"
+}
